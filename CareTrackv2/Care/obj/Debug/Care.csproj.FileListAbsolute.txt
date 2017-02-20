@@ -1,0 +1,528 @@
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\bin\Debug\Care.exe.config
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\bin\Debug\Care.exe
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\bin\Debug\Care.pdb
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\obj\Debug\Care.Properties.Resources.resources
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\obj\Debug\Care.exe
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\obj\Debug\Care.pdb
+c:\users\cyrax\documents\visual studio 2015\Projects\Care\Care\obj\Debug\Care.Prijava.resources
+C:\Users\Cyrax\Documents\Visual Studio 2015\Projects\Care\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\Cyrax\Documents\Visual Studio 2015\Projects\Care\Care\obj\Debug\Care.Skrbitelj.resources
+C:\Users\Cyrax\Documents\Visual Studio 2015\Projects\Care\Care\obj\Debug\Care.Sticenik.resources
+C:\Users\Cyrax\Documents\Visual Studio 2015\Projects\Care\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\Cyrax\Documents\Visual Studio 2015\Projects\Care\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\Desktop\Care\Care\bin\Debug\Care.exe.config
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.exe
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.pdb
+C:\Users\User\Desktop\Care\Care\bin\Debug\Care.exe
+C:\Users\User\Desktop\Care\Care\bin\Debug\Care.pdb
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Prijava.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Skrbitelj.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Sticenik.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.PraćenjeDekubitusa.resources
+C:\Users\User\Desktop\Care\Care\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Care\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Care\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\Care\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\Care\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\Care\Care\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Care\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Care\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\Care.exe.config
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.exe
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.pdb
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\Care.exe
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\Care.pdb
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\EntityFramework.dll
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\EntityFramework.xml
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.PraćenjeDekubitusa.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Prijava.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Gumb.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Skrbitelj.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Sticenik.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Lijek.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Mjerenje.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Odjel.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Alergija.resources
+C:\Users\User\Desktop\Care\Care\obj\Debug\Care.Soba.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Alergija.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Lijek.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Mjerenje.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Odjel.resources
+C:\Users\Cyrax\Desktop\r16026-master\Care\Care\obj\Debug\Care.Soba.resources
+D:\Jasna\Desktop\Care\Care\bin\Debug\Care.exe.config
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.exe
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.pdb
+D:\Jasna\Desktop\Care\Care\bin\Debug\Care.exe
+D:\Jasna\Desktop\Care\Care\bin\Debug\Care.pdb
+D:\Jasna\Desktop\Care\Care\bin\Debug\EntityFramework.dll
+D:\Jasna\Desktop\Care\Care\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jasna\Desktop\Care\Care\bin\Debug\mscorlib.dll
+D:\Jasna\Desktop\Care\Care\bin\Debug\System.Data.SQLite.dll
+D:\Jasna\Desktop\Care\Care\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jasna\Desktop\Care\Care\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jasna\Desktop\Care\Care\bin\Debug\EntityFramework.xml
+D:\Jasna\Desktop\Care\Care\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jasna\Desktop\Care\Care\bin\Debug\System.Data.SQLite.xml
+D:\Jasna\Desktop\Care\Care\bin\Debug\normidna.nlp
+D:\Jasna\Desktop\Care\Care\bin\Debug\normnfc.nlp
+D:\Jasna\Desktop\Care\Care\bin\Debug\normnfd.nlp
+D:\Jasna\Desktop\Care\Care\bin\Debug\normnfkc.nlp
+D:\Jasna\Desktop\Care\Care\bin\Debug\normnfkd.nlp
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.Mjerenje.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.Prijava.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.GlavnaForma.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.Gumb.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.Izbornik.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.Properties.Resources.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.NovaAlergija.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.NoviLijek.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.NoviOdjel.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.NoviDekubitus.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.NoviSkrbitelj.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.NovaSoba.resources
+D:\Jasna\Desktop\Care\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Mjerenje.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cyrax\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\Care.exe.config
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.exe
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.pdb
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\Care.exe
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\Care.pdb
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\mscorlib.dll
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\normidna.nlp
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\normnfc.nlp
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\normnfd.nlp
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\normnfkc.nlp
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\normnfkd.nlp
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.AlarmZaLijekove.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.AlarmZaLijekove.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\BorisTomas\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\slike\bla.txt
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\slike\bla.txt
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.AlarmZaLijekove.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\Cyrax\Desktop\r16026-master\r16026-master\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\slike\bla.txt
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.AlarmZaLijekove.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+C:\Users\User\Desktop\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\slike\bla.txt
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\Care.exe.config
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\Care.exe
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\Care.pdb
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.AlarmZaLijekove.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.LijekŠtićenik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.PratiŠtićenika.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.Prijava.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.exe
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2 (2)\Care\obj\Debug\Care.pdb
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\bin\Debug\slike\bla.txt
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+C:\Users\User\Desktop\FOI predmeti\III. godina - VI. semestar\Programsko inžinjerstvo\r16026\CareTrackv2\Care\obj\Debug\Care.NovoIzvješće_o_incidentu.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\slike\bla.txt
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovoIzvješće_o_incidentu.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\Care.exe.config
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.exe
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.pdb
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\slike\bla.txt
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\Care.exe
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\Care.pdb
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.dll
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.dll
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.dll
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.EF6.dll
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.Linq.dll
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+D:\r16026\r16026\CareTrackv2\Care\bin\Debug\System.Data.SQLite.xml
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NovoIzvješće_o_incidentu.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+D:\r16026\r16026\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\bin\Debug\slike\bla.txt
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovoIzvješće_o_incidentu.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+C:\Users\Cyrax\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.RadnaKnjiga.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NovoIzvješće_o_incidentu.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.RadnaKnjiga.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\User\r16026\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.PretraživanjeDekubitusa.resources
+C:\Users\User\r16026\CareTrackv2\Care\obj\Debug\Care.PopisDekubitusaŠtićenika.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PopisDekubitusaŠtićenika.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PopisIzvještajaOIncidentu.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PretraživanjeDekubitusa.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.PrikažiMjerenje.resources
+D:\Jasna\Documents\GitHub\r16026\CareTrackv2\Care\obj\Debug\Care.TražiIzvješće.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\Care.exe.config
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.exe
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.pdb
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\slike\bla.txt
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\Care.exe
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\Care.pdb
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\mscorlib.dll
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\normidna.nlp
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\normnfc.nlp
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\normnfd.nlp
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\normnfkc.nlp
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\bin\Debug\normnfkd.nlp
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NovoIzvješće_o_incidentu.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.PopisDekubitusaŠtićenika.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.PopisIzvještajaOIncidentu.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.PretraživanjeDekubitusa.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.PrikažiMjerenje.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.RadnaKnjiga.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.TražiIzvješće.resources
+D:\Jasna\Desktop\r16026\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe.config
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.exe
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.pdb
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\slike\bla.txt
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\Care.exe
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\Care.pdb
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.LijekŠtićenik.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaAlergija.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviLijek.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovoIzvješće_o_incidentu.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovoMjerenje.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviOdjel.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviDekubitus.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.PopisDekubitusaŠtićenika.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.PopisIzvještajaOIncidentu.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.PotvrdaOUzimanjuLijekova.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.PratiŠtićenika.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.PretraživanjeDekubitusa.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Prijava.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.GlavnaForma.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Gumb.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Izbornik.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.PrikažiMjerenje.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.Properties.Resources.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSkrbitelj.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NovaSoba.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.NoviSticenik.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.RadnaKnjiga.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.TražiIzvješće.resources
+C:\Users\User\Desktop\r16026-master\CareTrackv2\Care\obj\Debug\Care.csproj.GenerateResource.Cache

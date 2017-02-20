@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C7907068-5486-4C1C-B001-DB9A0DEECB89}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Care</RootNamespace>
+    <AssemblyName>Care</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Izvješće_o_incidentu.cs" />
+    <Compile Include="Lijekovi_Štićenici.cs" />
+    <Compile Include="LijekŠtićenik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LijekŠtićenik.Designer.cs">
+      <DependentUpon>LijekŠtićenik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mjerenje.cs" />
+    <Compile Include="NovaAlergija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NovaAlergija.Designer.cs">
+      <DependentUpon>NovaAlergija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alergija.cs" />
+    <Compile Include="NoviLijek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviLijek.Designer.cs">
+      <DependentUpon>NoviLijek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lijek.cs" />
+    <Compile Include="NovoIzvješće_o_incidentu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NovoIzvješće_o_incidentu.Designer.cs">
+      <DependentUpon>NovoIzvješće_o_incidentu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NovoMjerenje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NovoMjerenje.Designer.cs">
+      <DependentUpon>NovoMjerenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoviOdjel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviOdjel.Designer.cs">
+      <DependentUpon>NoviOdjel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odjel.cs" />
+    <Compile Include="Dekubitus.cs" />
+    <Compile Include="NoviDekubitus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviDekubitus.Designer.cs">
+      <DependentUpon>NoviDekubitus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopisDekubitusaŠtićenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopisDekubitusaŠtićenika.Designer.cs">
+      <DependentUpon>PopisDekubitusaŠtićenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopisIzvještajaOIncidentu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopisIzvještajaOIncidentu.Designer.cs">
+      <DependentUpon>PopisIzvještajaOIncidentu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PotvrdaOUzimanjuLijekova.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PotvrdaOUzimanjuLijekova.Designer.cs">
+      <DependentUpon>PotvrdaOUzimanjuLijekova.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Potvrda_o_uzimanju_lijekova.cs" />
+    <Compile Include="Praćenje_dekubitusa.cs" />
+    <Compile Include="PratiŠtićenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PratiŠtićenika.Designer.cs">
+      <DependentUpon>PratiŠtićenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretraživanjeDekubitusa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretraživanjeDekubitusa.Designer.cs">
+      <DependentUpon>PretraživanjeDekubitusa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prijava.Designer.cs">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlavnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavnaForma.Designer.cs">
+      <DependentUpon>GlavnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gumb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gumb.Designer.cs">
+      <DependentUpon>Gumb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izbornik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izbornik.Designer.cs">
+      <DependentUpon>Izbornik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrikažiMjerenje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrikažiMjerenje.Designer.cs">
+      <DependentUpon>PrikažiMjerenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="NoviSkrbitelj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviSkrbitelj.Designer.cs">
+      <DependentUpon>NoviSkrbitelj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RadnaKnjiga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RadnaKnjiga.Designer.cs">
+      <DependentUpon>RadnaKnjiga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Skrbitelj.cs" />
+    <Compile Include="NovaSoba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NovaSoba.Designer.cs">
+      <DependentUpon>NovaSoba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Soba.cs" />
+    <Compile Include="SQLServer.cs" />
+    <Compile Include="Sticenik.cs" />
+    <Compile Include="NoviSticenik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviSticenik.Designer.cs">
+      <DependentUpon>NoviSticenik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TražiIzvješće.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TražiIzvješće.Designer.cs">
+      <DependentUpon>TražiIzvješće.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrenutniKorisnik.cs" />
+    <Compile Include="Štićenici_Alergije.cs" />
+    <Compile Include="Štićenici_Težina.cs" />
+    <Compile Include="Štićenici_Visine.cs" />
+    <EmbeddedResource Include="LijekŠtićenik.resx">
+      <DependentUpon>LijekŠtićenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NovaAlergija.resx">
+      <DependentUpon>NovaAlergija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoviLijek.resx">
+      <DependentUpon>NoviLijek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NovoIzvješće_o_incidentu.resx">
+      <DependentUpon>NovoIzvješće_o_incidentu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NovoMjerenje.resx">
+      <DependentUpon>NovoMjerenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoviOdjel.resx">
+      <DependentUpon>NoviOdjel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoviDekubitus.resx">
+      <DependentUpon>NoviDekubitus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopisDekubitusaŠtićenika.resx">
+      <DependentUpon>PopisDekubitusaŠtićenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopisIzvještajaOIncidentu.resx">
+      <DependentUpon>PopisIzvještajaOIncidentu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PotvrdaOUzimanjuLijekova.resx">
+      <DependentUpon>PotvrdaOUzimanjuLijekova.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PratiŠtićenika.resx">
+      <DependentUpon>PratiŠtićenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretraživanjeDekubitusa.resx">
+      <DependentUpon>PretraživanjeDekubitusa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prijava.resx">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavnaForma.resx">
+      <DependentUpon>GlavnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gumb.resx">
+      <DependentUpon>Gumb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izbornik.resx">
+      <DependentUpon>Izbornik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrikažiMjerenje.resx">
+      <DependentUpon>PrikažiMjerenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="NoviSkrbitelj.resx">
+      <DependentUpon>NoviSkrbitelj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NovaSoba.resx">
+      <DependentUpon>NovaSoba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoviSticenik.resx">
+      <DependentUpon>NoviSticenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RadnaKnjiga.resx">
+      <DependentUpon>RadnaKnjiga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TražiIzvješće.resx">
+      <DependentUpon>TražiIzvješće.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Odjel.datasource" />
+    <None Include="Properties\DataSources\Skrbitelj.datasource" />
+    <None Include="Properties\DataSources\Soba.datasource" />
+    <None Include="Properties\DataSources\Sticenik.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="slike\bla.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
